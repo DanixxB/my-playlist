@@ -1,0 +1,23 @@
+table{
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 20px;
+}
+caption{
+    color: black;
+}
+th{
+    font-size: 20px;
+    color: black;
+    background-color:orange;
+}
+.cantotopleft{
+    border-top-left-radius: 20px;
+}
+.cantotopright{
+    border-top-right-radius: 20px;
+}
+
+table{
+    background-color: rgba(13, 253, 5, 0.836);
+}
